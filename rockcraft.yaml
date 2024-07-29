@@ -52,7 +52,7 @@ parts:
       - usr/local/lib/*
       - opt/oai-gnb/bin/*
 
-  runtime-deps:
+  tools:
     after:
       - cu
     plugin: nil
